@@ -1,0 +1,4 @@
+pandas == 2.2.2
+matplotlib == 3.9.2
+prophet == 1.1.5
+influxdb_client == 1.45.0
